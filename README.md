@@ -12,7 +12,7 @@ A responsive **Salesforce Landing Page Clone** built using **HTML5** and **CSS3*
 
 ### Features Section
 
-![Features Section](assets/images/secondpage.png)
+![Features Section](assets/images/features.png)
 
 ---
 
